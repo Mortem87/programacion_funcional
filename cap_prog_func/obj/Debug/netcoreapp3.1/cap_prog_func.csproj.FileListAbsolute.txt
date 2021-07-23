@@ -1,0 +1,13 @@
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\bin\Debug\netcoreapp3.1\cap_prog_func.exe
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\bin\Debug\netcoreapp3.1\cap_prog_func.deps.json
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\bin\Debug\netcoreapp3.1\cap_prog_func.runtimeconfig.json
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\bin\Debug\netcoreapp3.1\cap_prog_func.runtimeconfig.dev.json
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\bin\Debug\netcoreapp3.1\cap_prog_func.dll
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\bin\Debug\netcoreapp3.1\cap_prog_func.pdb
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\obj\Debug\netcoreapp3.1\cap_prog_func.csprojAssemblyReference.cache
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\obj\Debug\netcoreapp3.1\cap_prog_func.AssemblyInfoInputs.cache
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\obj\Debug\netcoreapp3.1\cap_prog_func.AssemblyInfo.cs
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\obj\Debug\netcoreapp3.1\cap_prog_func.csproj.CoreCompileInputs.cache
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\obj\Debug\netcoreapp3.1\cap_prog_func.dll
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\obj\Debug\netcoreapp3.1\cap_prog_func.pdb
+C:\Users\PJUAREZ\source\repos\sln_prog_func\cap_prog_func\obj\Debug\netcoreapp3.1\cap_prog_func.genruntimeconfig.cache
